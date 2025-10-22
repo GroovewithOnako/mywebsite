@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Groove talk",
     "description": "",
-    "home_page_url": "https://groovewithonako",
-    "feed_url": "https://groovewithonako/feed.json",
+    "home_page_url": "https://groovewithonako.github.io/mywebsite",
+    "feed_url": "https://groovewithonako.github.io/mywebsite/feed.json",
     "user_comment": "",
-    "icon": "https://groovewithonako/media/website/72826fe0-9196-42b2-a8c8-3c1c1f4a2db9-2.png",
+    "icon": "https://groovewithonako.github.io/mywebsite/media/website/72826fe0-9196-42b2-a8c8-3c1c1f4a2db9-2.png",
     "author": {
         "name": "Onako Mlozana"
     },
